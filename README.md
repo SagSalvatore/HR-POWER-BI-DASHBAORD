@@ -68,14 +68,13 @@ Highlighted top and bottom performers for performance reviews.
 Provided actionable insights to optimize workforce management and reduce attrition.
 
 🛠️ How to Use
-Download the .pbix file and open it in Power BI Desktop or use the link: HR Attrition Dashboard.
+Download the .pbix file and open it in Power BI Desktop or use the link:- https://github.com/SagSalvatore/HR-POWER-BI-DASHBAORD/blob/main/HR%20DASHBOARD.pbix
 
-Dataset: HR_Attrition_Dataset.csv for the insights.
-
-Use the interactive slicers and filters to explore the data dynamically.
+Dataset: HR_Attrition_Dataset.csv for the insights- https://github.com/SagSalvatore/HR-POWER-BI-DASHBAORD/blob/main/HR-emp-attrition%20dataset.csv
 
 Contains screenshots of the dashboard for easy preview:
-HR Attrition Dashboard
+HR Attrition Dashboard- ![HR-IMG](https://github.com/user-attachments/assets/cd092ecf-9968-484f-9684-b7e54b8e1a82)
+
 
 🤝 Contributions
 Feel free to fork this repository and contribute by adding new features, improving visualizations, or enhancing the dataset. Please submit a pull request for any changes.
